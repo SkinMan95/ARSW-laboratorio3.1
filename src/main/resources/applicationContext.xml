@@ -9,6 +9,6 @@
 
     <context:component-scan base-package="edu.eci.arsw" />
     
-    <bean id = "sc" class = "edu.eci.arsw.springdemo.EnglishSpellChecker" />
+    <bean id = "sc" class = "edu.eci.arsw.springdemo.SpanishSpellChecker" />
     
 </beans>
